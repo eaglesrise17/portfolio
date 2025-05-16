@@ -12,7 +12,7 @@
 
 
 ### Work Experience
-2022-2025: IT Business Analyst III, Associated Wholesale Grocers, Kansas City, KS 
+2022-2025: IT Business Analyst III, Associated Wholesale Grocers, Kansas City, KS
 
 2021-2022: Sales Compensation Analyst, SPX Technologies, Overland Park, KS
 
