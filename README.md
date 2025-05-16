@@ -1,11 +1,11 @@
 # Data Analyst
 
 ### Education
-Data Science Graduate Certificate, Rockhurst University, Kansas City, MO (2019)
+2019 - Data Science Graduate Certificate, Rockhurst University, Kansas City, MO
 
-Master of Business Administration, Keller Graduate School, Kansas City, MO (2009)
+2009 - Master of Business Administration, Keller Graduate School, Kansas City, MO (2009)
 
-Bachelor of Science, Business Management, University of South Alabama, Mobile, AL (1996)
+1996 - Bachelor of Science, Business Management, University of South Alabama, Mobile, AL (1996)
 
 ### Projects
 
