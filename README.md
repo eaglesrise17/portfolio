@@ -1,34 +1,25 @@
 # Data Analyst
 
 ### Education
-Data Science Graduate Certificate, 2019
-Rockhurst University, Kansas City, MO
+Data Science Graduate Certificate, Rockhurst University, Kansas City, MO (2019)
 
-Master of Business Administration, 2009
-Keller Graduate School, Kansas City, MO
+Master of Business Administration, Keller Graduate School, Kansas City, MO (2009)
 
-Bachelor of Science, Business Management, 1996
-University of South Alabama, Mobile, AL
+Bachelor of Science, Business Management, University of South Alabama, Mobile, AL (1996)
 
 ### Projects
 
 
 
 ### Work Experience
-IT Business Analyst III, 2022-2025
-Associated Wholesale Grocers, Kansas City, KS
+IT Business Analyst III, Associated Wholesale Grocers, Kansas City, KS (2022-2025)
 
-Sales Compensation Analyst, 2021-2022
-SPX Technologies, Overland Park, KS
+Sales Compensation Analyst, SPX Technologies, Overland Park, KS (2021-2022)
 
-Logistics / Import Analyst, 2020-2021
-Manpower, Inc., Kansas City, MO
+Logistics / Import Analyst, Manpower, Inc., Kansas City, MO (2020-2021)
 
-Data Project Manager, 2019-2020
-American Century Investments, Kansas City, MO
+Data Project Manager, American Century Investments, Kansas City, MO (2019-2020)
 
-Business Analyst, 2016-2019
-H&R Block, Kansas City, MO
+Business Analyst, H&R Block, Kansas City, MO (2016-2019)
 
-Sales Compensation Analyst, 2012-2015
-Sprint Telecom, Overland Park, KS
+Sales Compensation Analyst, Sprint Telecom, Overland Park, KS (2012-2015)
