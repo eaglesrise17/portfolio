@@ -1,4 +1,4 @@
-# Data Analyst
+# Steve Talbot, Data Analyst
 
 ### Education
 2019: Data Science Graduate Certificate, Rockhurst University, Kansas City, MO
